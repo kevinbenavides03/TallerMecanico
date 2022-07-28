@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\MecanicoTaller\bin\Debug\net6.0\MecanicoTaller.exe
+C:\Users\USer\source\repos\MecanicoTaller\bin\Debug\net6.0\MecanicoTaller.deps.json
+C:\Users\USer\source\repos\MecanicoTaller\bin\Debug\net6.0\MecanicoTaller.runtimeconfig.json
+C:\Users\USer\source\repos\MecanicoTaller\bin\Debug\net6.0\MecanicoTaller.dll
+C:\Users\USer\source\repos\MecanicoTaller\bin\Debug\net6.0\MecanicoTaller.pdb
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.AssemblyInfo.cs
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.dll
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\refint\MecanicoTaller.dll
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.pdb
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\MecanicoTaller.genruntimeconfig.cache
+C:\Users\USer\source\repos\MecanicoTaller\obj\Debug\net6.0\ref\MecanicoTaller.dll
